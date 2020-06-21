@@ -6,7 +6,7 @@ Homepage datasets used:
 4. NewCases4Block
 
 District page datasets used:
-1. DistrictData
+1. DistrictData  // Obsolete
 2. 
 3. 
 
