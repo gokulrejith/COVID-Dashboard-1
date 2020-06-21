@@ -2,7 +2,8 @@
 Homepage datasets used:
 1. QuarKerDist
 2. PatientDeathAge
-3. Total
+3. MainFile
+4. NewCases
 
 District page datasets used:
 1. 
@@ -10,5 +11,5 @@ District page datasets used:
 3. 
 
 World page datasets used
-1.
+1.WorldDataTop10
 2.
