@@ -1,11 +1,11 @@
 state_name,state_confirmed,state_deaths,state_recovered
-Maharashtra,"132075","170","65744"
-Delhi,"59746","2175","33013"
-Tamil Nadu,"59377",757,"32754"
-Gujarat,"27260","1663","19349"
-Uttar Pradesh,"17731",550,"10995"
-Rajasthan,"14930",349,"11597"
-West Bengal,"13945","555","8297"
-Madhya Pradesh,"11903",515,"9015"
-Haryana,"10635",160,"5557"
-Karnataka, "9399", "5730", "142"
+Maharashtra,132075,170,65744
+Delhi,59746,2175,33013
+Tamil Nadu,59377,757,32754
+Gujarat,27260,1663,19349
+Uttar Pradesh,17731,550,10995
+Rajasthan,14930,349,11597
+West Bengal,13945,555,8297
+Madhya Pradesh,11903,515,9015
+Haryana,10635,160,5557
+Karnataka, 9399, 5730, 142
