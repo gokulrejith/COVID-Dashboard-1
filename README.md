@@ -1,5 +1,5 @@
 # COVID-Dashboard
-Homepage datasets used:
+#Homepage datasets used:
 1. QuarKerDist
 >>> https://dashboard.kerala.gov.in/quarantined-datewise.php
 2. PatientDeathAge
@@ -8,17 +8,18 @@ Homepage datasets used:
 >>> https://dashboard.kerala.gov.in/index.php
 >>> https://dashboard.kerala.gov.in/testing-view-public.php (For getting test data)
 
-District page datasets used:
+#District page datasets used:
 1. DistrictData 
 >>> https://dashboard.kerala.gov.in/dailyreporting-view-public-districtwise.php
 2. DistrictDatewise
 >>> https://dashboard.kerala.gov.in/dailyreporting-view-public-districtwise.php
 
-State page datasets used:
+#State page datasets used:
 1. StateData
 >>> https://www.mohfw.gov.in/
 2. StateDataTop10
 >>> https://news.google.com/covid19/map?hl=en-IN&mid=/m/03rk0&gl=IN&ceid=IN:en
-World page datasets used
+
+#World page datasets used
 1. WorldDataTop10
 >>> https://www.worldometers.info/coronavirus/
