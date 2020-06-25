@@ -16,8 +16,9 @@ District page datasets used:
 
 State page datasets used:
 1. StateData
+>>> https://www.mohfw.gov.in/
 2. StateDataTop10
-
+>>> https://news.google.com/covid19/map?hl=en-IN&mid=/m/03rk0&gl=IN&ceid=IN:en
 World page datasets used
 1. WorldDataTop10
-
+>>> https://www.worldometers.info/coronavirus/
