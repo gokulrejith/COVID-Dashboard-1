@@ -1,11 +1,11 @@
 state_name,state_confirmed,state_deaths,state_recovered
-Maharashtra,135796,6283,67706
-Delhi,62655,2233,36602
-Tamil Nadu,64603,833,36602
-Gujarat,27825,1684,19909
-Uttar Pradesh,18893,588,10995
-Rajasthan,15232,356,11910
-West Bengal,14358,569,8687
-Madhya Pradesh,12078,521,9215
-Haryana,11025,169,5916
-Karnataka, 9399, 5730, 142
+Maharashtra,1,42,900,6,739,73,792
+Delhi,70,390,2,365,41,437
+Tamil Nadu,67,468,866,37,763
+Gujarat,29,578,1,754,No data
+Uttar Pradesh,19,557,596,12,586
+Rajasthan,16,009,375,12,611
+West Bengal,15,173,591,9,702
+Madhya Pradesh,12,595,542,No data
+Haryana,12,010,188,6,925
+Karnataka,10,560,170,No data
