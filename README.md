@@ -5,7 +5,7 @@
 2. PatientDeathAge
 >>> https://dashboard.kerala.gov.in/deaths.php
 3. KeralaData
->>> https://dashboard.kerala.gov.in/index.php
+>> https://dashboard.kerala.gov.in/index.php
 >>> https://dashboard.kerala.gov.in/testing-view-public.php (For getting test data)
 
 #District page datasets used:
