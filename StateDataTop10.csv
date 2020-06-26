@@ -1,11 +1,11 @@
-state_name,state_confirmed,state_deaths,state_recovered
-Maharashtra,142900,6739,73792
-Delhi,70390,2365,41437
-Tamil Nadu,67468,866,37763
-Gujarat,29578,1754,No data
-Uttar Pradesh,19557,596,12586
-Rajasthan,16009,375,12611
-West Bengal,15173,591,9702
-Madhya Pradesh,12595,542,No data
-Haryana,12010,188,6925
-Karnataka,10560,170,No data
+state_name,state_confirmed,state_deaths,state_recovered,
+Maharashtra,147741,No data,6931,
+Delhi,73780,No data,2429,
+Tamil Nadu,70977,39999,911,
+Gujarat,29578,No data,1754,
+Uttar Pradesh,20193,No data,611,
+Rajasthan,16009,12611,375,
+West Bengal,15173,9702,591,
+Madhya Pradesh,12595,No data,542,
+Haryana,12010,6925,188,
+Karnataka,11005,No data,180,
