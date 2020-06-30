@@ -1,4 +1,4 @@
-Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+name,active,cured,deaths,total
 Andaman and Nicobar Islands,44,46,0,90
 Andhra Pradesh,7479,6232,180,13891
 Arunachal Pradesh,125,61,1,187
@@ -6,7 +6,7 @@ Assam,2408,5333,11,7752
 Bihar,2188,7390,62,9640
 Chandigarh,80,349,6,435
 Chhattisgarh,575,2173,13,2761
-Dadra and Nagar Haveli and Daman and Diu,126,77,0,203
+Dadra and Nagar Haveli,126,77,0,203
 Delhi,26246,56235,2680,85161
 Goa,717,478,3,1198
 Gujarat,6871,23240,1827,31938
