@@ -1,11 +1,11 @@
-country,cases,deaths,recovered
-USA,2650473,128513,1094562
-Brazil,1345470,57659,733848
-Russia,641156,9166,403430
-India,562457,16797,329728
-UK,311965,43575,No Data
-Spain,295850,28343,No  Data
-Peru,279419,9317,167998
-Chile,271982,5509,232210
-Italy,240436,34744,189196
-Iran,225205,10670,186180
+Country,Cases,Deaths,recovered
+United States,2695685,129031,no data
+Brazil,1373006,58406,no data
+Russia,647849,9320no data
+India,574926,17038,no data
+United Kingdom,312654,43730,no data
+Spain,296351,28355,no data
+Peru,282365,9504,no data
+Chile,279393,5688,no data
+Italy,240436,34744,no data
+Iran,227662,10817,no data
