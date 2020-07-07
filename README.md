@@ -11,7 +11,7 @@
 #District page datasets used:
 1. DistrictData - Derin
 >>> https://dashboard.kerala.gov.in/dailyreporting-view-public-districtwise.php
-2. DistrictDatewise - Godson
+2. DistrictDatewise - Godson Thomas
 >>> https://dashboard.kerala.gov.in/dailyreporting-view-public-districtwise.php
 
 #State page datasets used:
