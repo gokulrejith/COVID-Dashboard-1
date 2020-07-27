@@ -1,319 +1,496 @@
 ﻿Sl. No.,District,LSGs needing special attention,Containment Zones - ward
-1,Kannur,Aalakkod,19
-2,Kannur,Chapparappadavu,6 (Sub-ward)
-3,Kannur,Chirakkal,5
-4,Kannur,Chittaripparamba,(3, 5, 7, 13, 14)
-5,Kannur,Iritty (M),14, 16, 27
-6,Kannur,Kannur (C),14, 15, 31, 34
-7,Kannur,Panoor,All Wards
-8,Kannur,Koothuparamba (M),1, 10, 11, 13, 15, 16, 20, 22, 25, 27
-9,Kannur,Kottayam-Malabar,1, 2 ,8, 10, 14
-10,Kannur,Mattannur (M),4, 7, 12, 17, 28, 31
-11,Kannur,Mokeri,3, 6, 10,12,14
-12,Kannur,Munderi,4, 6, 7, 8, 16
-13,Kannur,Muzhappilangad,2
-14,Kannur,Patyam,7, 9, 17
-15,Kannur,Payyannur (M),3, 21, 26
-16,Kannur,Peralaserry,1, 3
-17,Kannur,Ramanthali,4, 5, 13 (Sub-ward)
-18,Kannur,Sreekandapuram (M),2, 18
-19,Kannur,Thalassery (M),1, 23, 28, 50
-20,Kannur,Karivellur-Peralam,4, 5
-21,Kannur,Peringome-Vyakkara,4
-22,Kannur,Chembilode,14, 18
-23,Kannur,Kathiroor,2, 4, 18
-24,Kannur,Kolayad,8, 10, 11, 14
-25,Kannur,Maloor,1, 6
-26,Kannur,Chokli,4,12 ,13, 15
-27,Kannur,Thaliparamba (M),11, 13, 30
-28,Kannur,Mayyil,11
-29,Kannur,Keezhallur,3
-30,Kannur,Kunnothuparamba,All Wards
-31,Kannur,Anthoor,1, 3, 22
-32,Kannur,Padiyoor,10, 11, 13
-33,Kannur,Peravoor,10, 16
-34,Kannur,New Mahe,4, 5, 7
-35,Kannur,Vengad,1, 3, 5, 9, 16, 18
-36,Kannur,Kankol Alapadamba,1
-37,Kannur,Koodali,18
-38,Kannur,Trippangottur,16, 17
-39,Kannur,Cherupuzha,5, 10
-40,Kannur,Malappattam,5
-41,Kannur,Payam,2
-42,Kannur,Anjarakkandi,1, 9
-43,Kannur,Mangattidam,1, 2, 9, 17
-44,Kannur,Contonment Board,All wards
-45,Kannur,Kadambur,2, 7
-46,Kannur,Panniannur,1
-47,Kannur,Kannapuram,8
-48,Kannur,Azeekkode,15, 18
-49,Kannur,Ulikkal,16
-50,Kannur,Kolacheri,10
-51,Kannur,Thillankeri,10
-52,Kannur,Irikkoor,4
-53,Kannur,Cheruthazham,14
-54,Kannur,Naduvil,17
-55,Ernakulam,Kochi (C),8, 11(Thoppumpady Fishing Harbour), 24, 38, 40, 43, 44, 46, 55, 56, 58, 66, 69, 67 (Ernakulam Market)
-56,Ernakulam,Kanjoor,1, 12
-57,Ernakulam,Chellanam,All Wards
-58,Ernakulam,Piravam (M),17
-59,Ernakulam,Paingottur,5
-60,Ernakulam,Paravoor (M),8
-61,Ernakulam,Kodungalloor,7, 8
-62,Ernakulam,Thrikkakkara (M),12
-63,Ernakulam,Aluva (M),All Divisions
-64,Ernakulam,Keezhumad,All Wards
-65,Ernakulam,Edathala,1, 2, 3, 4,5 10, 14, 17
-66,Ernakulam,Mulavukad,3
-67,Ernakulam,Alangad,7, 11, 12, 20, 21
-68,Ernakulam,Choornikkara,2, 3, 7, 9
-69,Ernakulam,Varappuzha,14 (Market)
-70,Ernakulam,Tripunithura (M),35, 50 (Grandeur westend palace,Poornathreya temple road )
-71,Ernakulam,Chengamanad,14
-72,Ernakulam,Karumalloor,4, 7, 8, 10, 11
-73,Ernakulam,Sreemoolanagaram,4, 16
-74,Ernakulam,Vazhakkulam,19
-75,Ernakulam,Malayattoor-Neeleswaram,13
-76,Ernakulam,Vadakkekkara,15, 16
-77,Ernakulam,Elankunnapuzha,14, 15 Kalamukku Market
-78,Ernakulam,Moovattupuzha (M),1, 28 (Pezhakkappilly Market)
-79,Ernakulam,Kumbalangi,5, 9
-80,Ernakulam,Kalamassery (M),36
-81,Ernakulam,Thiruvaniyoor,6
-82,Ernakulam,Rayamangalam,13, 14
-83,Ernakulam,Kavalangad,11
-84,Ernakulam,Pallarimangalam,9
-85,Ernakulam,Kuzhupilly,1
-86,Ernakulam,Nedumbassery,15
-87,Ernakulam,Chittattukara,3
-88,Ernakulam,Maradu (M),23, 24, 25
-89,Ernakulam,Mulanthuruthy,7
-90,Ernakulam,Mookkannur,7
-91,Kollam,Thenmala,All Wards
-92,Kollam,Aryankavu,4 (Aryankavu), 5 (Aryankavu Temple)
-93,Kollam,Kollam (C),2, 4, 36, 37, 38, 39
-94,Kollam,Thevalakkara,All Wards
-95,Kollam,Panmana,All Wards
-96,Kollam,Sasthamcotta,All Wards
-97,Kollam,Mynagappally,All Wards
-98,Kollam,West Kallada,All Wards
-99,Kollam,Sooranad South,All Wards
-100,Kollam,Clappana,All Wards
-101,Kollam,Neendakara,All Wards
-102,Kollam,Chavara,All Wards
-103,Kollam,Poruvazhi,All Wards
-104,Kollam,Nedumbana,All Wards
-105,Kollam,Kulasekharam,All Wards
-106,Kollam,Perayam,All Wards
-107,Kollam,Paravur (M),3,9, 11, 12, 19, 20, 22, 26, 27
-108,Kollam,Veliyam,All wards
-109,Kollam,Anchal,All wards
-110,Kollam,Alayamon,All wards
-111,Kollam,Yeroor,All wards
-112,Kollam,Edamulakkal,All Wards
-113,Kollam,Ilamad,All wards
-114,Kollam,Velinallur,All Wards
-115,Kollam,Melila,All Wards
-116,Kollam,Vettikkavala,All Wards
-117,Kollam,Thodiyoor,All Wards
-118,Kollam,Sooranad North,All Wards
-119,Kollam,Alappad,All Wards
-120,Kollam,Vilakkudi,All Wards
-121,Kollam,Mayyanad,All Wards
-122,Kollam,Karipra,All Wards
-123,Kollam,Ummannoor,All Wards
-124,Kollam,Chithara,All Wards
-125,Kollam,Kummil,All Wards
-126,Kollam,Kadaykkal,All Wards
-127,Kasargode,Ajanur,1, 2, 3, 4, 7, 18, 21
-128,Kasargode,Chemnad,7, 8, 9, 12, 13, 19, 22
-129,Kasargode,Chengala,3, 6, 8, 9, 10, 13, 14, 17, 18, 19, 20, 23
-130,Kasargode,Kasargod (M),2, 3, 11, 12, 14, 22, 23, 26 28, 34
-131,Kasargode,Kodom Belur,3
-132,Kasargode,Kumbala,5, 6, 12, 15, 16, 17, 18, 20, 23, 24
-133,Kasargode,Madhur,5, 6, 9, 17, 18
-134,Kasargode,Mangalpady,3, 5, 9 ,11, 12, 13, 15, 18, 21
-135,Kasargode,Manjeshwar,5, 9, 11, 12, 13, 14, 19, 20
-136,Kasargode,Mogral Puthur,1, 2, 5, 6, 9, 14, 15
-137,Kasargode,Muliyar,1, 10, 13, 14
-138,Kasargode,Nileshwar (M),5, 22
-139,Kasargode,Pallikkara,1, 9, 12, 14, 16
-140,Kasargode,Pullur Periya,1, 6, 12
-141,Kasargode,Trikaripur,10, 15
-142,Kasargode,Uduma,2, 7, 17
-143,Kasargode,Vorkardy,1, 11
-144,Kasargode,Badiadka,12
-145,Kasargode,Enmakaje,4
-146,Kasargode,Meenja,2, 10, 11, 12, 13,14
-147,Kasargode,Paivalike,15
-148,Kasargode,Bellur,11
-149,Kasargode,Kallar,3
-150,Kasargode,Panathady,11, 13
-151,Kasargode,Cheruvathur,17
-152,Kasargode,Karadka,5, 9
-153,Palakkad,Koppam,6, 8, 9, 17
-154,Palakkad,Elappully,14
-155,Palakkad,Perumatti,2
-156,Palakkad,Thiruvegappura,17, 18
-157,Palakkad,Vaniyamkulam,6
-158,Palakkad,Kozhinjampara,8
-159,Palakkad,Thrithala,13
-160,Palakkad,Shornur,19
-161,Palakkad,Kulukkallur,7, 11
-162,Palakkad,Nellaya,10, 11
-163,Palakkad,Kollangode,2
-164,Palakkad,Vallappuzha,3, 5, 13 ,16
-165,Palakkad,Alanalloor,17
-166,Palakkad,Pallassana,3, 8
-167,Palakkad,Ongallur,16
-168,Palakkad,Karakkurissi,6, 12
-169,Palakkad,Kanjirappuzha,1, 13
-170,Palakkad,Peringottukurissi,4, 5, 7
-171,Palakkad,Akathethara,11
-172,Palakkad,Puthuppariyaram,8
-173,Palakkad,Kumaramputhur,9, 16
-174,Palakkad,Peruvemb,1
-175,Palakkad,Thengara,5
-176,Palakkad,Sreekrishnapuram,2
-177,Palakkad,Nenmara,5
-178,Palakkad,Pattambi (M),All Wards
-179,Palakkad,Ottappalam (M),18
-180,Alappuzha,Kayamkulam (M),All Wards
-181,Alappuzha,Palamel,All Wards
-182,Alappuzha,Bharanikkavu,5, 12, 13, 14
-183,Alappuzha,Thekkekkara,All Wards
-184,Alappuzha,Nooranad,All Wards
-185,Alappuzha,Arattupuzha,All Wards
-186,Alappuzha,Cheriyanad,4, 7
-187,Alappuzha,Venmony,8
-188,Alappuzha,Karuvatta,4
-189,Alappuzha,Thamarakkulam,All Wards
-190,Alappuzha,Pathiyoor,12
-191,Alappuzha,Pulincunnoo,All Wards
-192,Alappuzha,Vallikkunnam,2, 3
-193,Alappuzha,Puliyoor,1
-194,Alappuzha,Alappuzha (M),1, 35, 43
-195,Alappuzha,Ala,13
-196,Alappuzha,Cherthala Taluk,Entire Taluk
-197,Alappuzha,Ramankari,9
-198,Alappuzha,Thrikkunnapuzha,All Wards
-199,Alappuzha,Krishnapuram,1, 2, 3
-200,Alappuzha,Ambalappuzha North,1, 2, 18
-201,Alappuzha,Devikulangara,13
-202,Pathanamthitta,Pathanamthitta (M),All Wards
-203,Pathanamthitta,Thiruvalla (M),14, 19, 20
-204,Pathanamthitta,Kallooppara,12
-205,Pathanamthitta,Malayalapuzha,6, 8
-206,Pathanamthitta,Kottangal,3
-207,Pathanamthitta,Pandalam (M),31, 32
-208,Pathanamthitta,Ezhamkulam,6, 17
-209,Pathanamthitta,Aruvappulam,2, 3, 4, 5, 12
-210,Pathanamthitta,Cherukole,2, 11, 12, 13
-211,Pathanamthitta,Kadapra,8, 9
-212,Pathanamthitta,Kodumon,12, 13, 17
-213,Pathanamthitta,Naranganam,7
-214,Pathanamthitta,Mylapra,9
-215,Pathanamthitta,Kalanjoor,5, 6
-216,Pathanamthitta,Pramadom,1, 10
-217,Pathanamthitta,Adoor (M),24, 26
-218,Pathanamthitta,Ayiroor,11,12, 15
-219,Pathanamthitta,Thannithode,3, 4, 5, 6, 7, 8
-220,Pathanamthitta,Chennerkkara,13
-221,Pathanamthitta,Erathu,11, 13, 15
-222,Pathanamthitta,Aranmula,14
-223,Pathanamthitta,Vadasserikkara,1
-224,Pathanamthitta,Kunnanthanam,5, 8
-225,Pathanamthitta,Niranam,13
-226,Pathanamthitta,Pallikkal,3
-227,Pathanamthitta,Ranni Pazhavangadi,12, 13, 14
-228,Idukki,Vathikkudy,11, 14
-229,Idukki,Kanjikuzhy,7, 10, 11, 12, 13, 14
-230,Idukki,Karunapuram,14
-231,Idukki,Rajakkad,All Wards
-232,Idukki,Chinnakkanal,3, 10
-233,Idukki,Kanjiryar,11, 12
-234,Idukki,Ayyappankovil,1, 2, 3
-235,Idukki,Upputhara,1, 6, 7
-236,Idukki,Udumbanchola,2, 3
-237,Idukki,Kodikkulam,1, 13
-238,Idukki,Bysenvally,8
-239,Idukki,Peerumedu,13
-240,Idukki,Senapathy,9
-241,Idukki,Vazhathope,4
-242,Idukki,Mariyapuram,5, 10, 11
-243,Idukki,Vannapuram,1, 17
-244,Idukki,Munnar,19
-245,Thiruvananthapuram,Thiruvananthapuram (C),All Wards
-246,Thiruvananthapuram,Parasala,All wards
-247,Thiruvananthapuram,Karode,1, 2, 3, 8, 14, 15, 16
-248,Thiruvananthapuram,Anchuthengu,All Wards
-249,Thiruvananthapuram,Chirayinkeezhu,5, 6, 7, 10, 11, 12 ,13, 14, 15
-250,Thiruvananthapuram,Azhoor,1, 18
-251,Thiruvananthapuram,Poovachal,4, 6
-252,Thiruvananthapuram,Vilappil,3
-253,Thiruvananthapuram,Karumkulam,14, 15, 16, 17
-254,Thiruvananthapuram,Chenkal,1, 2, 6, 8,10, 13
-255,Thiruvananthapuram,Panavoor,4, 7, 10,11
-256,Thiruvananthapuram,Kunnathukal,All wards
-257,Thiruvananthapuram,Kulathur,9, 10, 11, 12, 13, 14
-258,Thiruvananthapuram,Poovar,7, 8, 9, 10, 11, 12
-259,Thiruvananthapuram,Perumkadavila,3, 4, 6, 7, 11, 13
-260,Wayanad,Thirunelli,All Wards
-261,Wayanad,Meppadi,19
-262,Wayanad,Thondarnadu,1, 2, 3, 4, 10, 11, 12, 13, 15
-263,Wayanad,Mullankolly,All Wards
-264,Wayanad,Kottathara,5
-265,Wayanad,Kaniyambatta,5 th Ward-Cinema hall to Kozhingad Road, 11 th Ward-Kambalgad Town, 12
-266,Wayanad,Pulpally,All Wards
-267,Wayanad,Poothadi,3, 4, 5, 6, 7, 8, 15
-268,Wayanad,Meenangadi,15, 16
-269,Wayanad,Mananthavadi (M),11, 13, 14, 29
-270,Wayanad,Kalppatta,18 - Rattakkolli Paniya Colony
-271,Wayanad,Edavaka,2, 12
-272,Wayanad,Vellamunda,9
-273,Malappuram,Ponnani (M),All Wards
-274,Malappuram,Perumpadapp,All Wards
-275,Malappuram,Veliyamkode,All Wards
-276,Malappuram,Marancheri,All Wards
-277,Malappuram,Alamkode,All Wards
-278,Malappuram,Vattamkulam,All Wards
-279,Malappuram,Edappal,All Wards
-280,Malappuram,Kaladi,All Wards
-281,Malappuram,Tanur (M),All Wards
-282,Malappuram,Edakkara,3, 4 , 5
-283,Malappuram,Vazhikkadav,21
-284,Thrissur,Kunnamkulam (M),3, 7, 8, 10, 11, 12,15, 17, 19, 20, 21,22, 25, 26, 33
-285,Thrissur,Annamanada,7, 8
-286,Thrissur,Mooriyad,8, 9, 10, 11, 12, 13, 14
-287,Thrissur,Iringalakkuda (M),16, 19, 20, 22, 24, 26, 27, 28, 33, 35
-288,Thrissur,Kadangode,4, 5
-289,Thrissur,Guruvayoor (M),35
-290,Thrissur,Velukkara,5, 7, 17, 18
-291,Thrissur,Chovvannur,1
-292,Thrissur,Edathuruthy,11
-293,Thrissur,Aloor,1
-294,Thrissur,Koratty,1
-295,Thrissur,Thannyam,9, 10
-296,Thrissur,Kadavalloor,18
-297,Thrissur,Karalam,13, 14
-298,Thrissur,Thrissur ©,49
-299,Kottayam,Parathode,7, 8, 9
-300,Kottayam,Manarcadu,8
-301,Kottayam,Aymanam,6
-302,Kottayam,Thalayolaparamb,4
-303,Kottayam,Kadathuruthy,16
-304,Kottayam,Udayanapuram,16
-305,Kottayam,Kumarakom,4, 12
-306,Kottayam,Pallikkathode,7
-307,Kottayam,TV puram,10
-308,Kottayam,Ettumanoor (M),35
-309,Kottayam,Vechoor,3
-310,Kottayam,Maravanthuruth,11, 12
-311,Kozhikode,Kozhikode ©,37, 38, 41, 44, 56, 57, 59, 62
-312,Kozhikode,Nadapuram,All Wards
-313,Kozhikode,Tuneri,All Wards
-314,Kozhikode,Vadakara (M),All Wards
-315,Kozhikode,Thalakulathur,16
-316,Kozhikode,Villiappally,13, 14
-317,Kozhikode,Perambra,17, 18, 19
-318,Kozhikode,Changaroth,14, 15, 19
+1,Kannur,Aalakkod,2, 13, 19
+2,Kannur,Chirakkal,4, 6, 5, 7, 16
+3,Kannur,Chittaripparamba,3, 5, 7 ,13, 14
+4,Kannur,Iritty (M),2, 13, 14, 16
+5,Kannur,Kannur (C),1, 14, 15, 17, 20, 31, 33,40, 43, 50
+6,Kannur,Panoor,All Wards
+7,Kannur,Koothuparamba (M),1, 3, 6, 11, 13, 16, 20, 25, 27, 28
+8,Kannur,Kottayam-Malabar,1, 2 ,4, 8, 11
+9,Kannur,Mattannur (M),7, 12, 17, 28
+10,Kannur,Mokeri,2, 3, 5, 6,14
+11,Kannur,Munderi,1, 3, 4, 6, 7, 11, 20
+12,Kannur,Payyannur (M),3, 20, 21, 26
+13,Kannur,Peralaserry,3, 18
+14,Kannur,Ramanthali,2
+15,Kannur,Sreekandapuram (M),2, 8, 18
+16,Kannur,Thalassery (M),1,10, 11,14, 23, 28
+17,Kannur,Karivellur-Peralam,4, 10
+18,Kannur,Peringome-Vyakkara,2,3
+19,Kannur,Chembilode,3, 5, 9, 14, 15, 16, 17, 19
+20,Kannur,Kathiroor,1, 2, 7, 12, 16, 18
+21,Kannur,Kolayad,2, 7, 8
+22,Kannur,Maloor,1, 2, 13, 14
+23,Kannur,Chokli,15
+24,Kannur,Thaliparamba (M),19, 30
+25,Kannur,Mayyil,6, 11,17
+26,Kannur,Keezhallur,2, 10
+27,Kannur,Kunnothuparamba,All Wards
+28,Kannur,Anthoor,1, 10, 11, 22
+29,Kannur,Peravoor,2, 6, 8, 10, 11, 16
+30,Kannur,Vengad,1, 3, 9,10,12, 18
+31,Kannur,Trippangottur,1, 3, 9, 11, 13,15,16 , 17, 18
+32,Kannur,Cherupuzha,10
+33,Kannur,Anjarakkandi,7, 10, 15
+34,Kannur,Mangattidam,2, 3, 11
+35,Kannur,Contonment Board,All wards
+36,Kannur,Kadambur,2, 3, 10
+37,Kannur,Panniannur,2
+38,Kannur,Kannapuram,4, 8
+39,Kannur,Azeekkode,15, 18, 23
+40,Kannur,Ulikkal,16
+41,Kannur,Kolacheri,9, 10
+42,Kannur,Thillankeri,6, 7, 10
+43,Kannur,Irikkoor,4
+44,Kannur,Cheruthazham,10, 14, 16
+45,Kannur,Naduvil,17
+46,Kannur,Eramam Kuttur,5, 11
+47,Kannur,Pariyaram,2, 16
+48,Kannur,Pappinissery,2, 5, 12, 13
+49,Kannur,Ezhom,14
+50,Kannur,Pinarayi,8, 12
+51,Kannur,Eruvessi,2, 7
+52,Kannur,Cherukunnu,6
+53,Kannur,Chengalayi,1
+54,Kannur,Kottiyoor,1, 6
+55,Kannur,Madai,12, 14
+56,Kannur,Aralam,10
+57,Kannur,Pattuvam,6, 9
+58,Kannur,Kadannappally Panappuzha,11, 12, 13
+59,Kannur,Kurumathoor,10
+60,Kannur,Kuttiyattoor,11
+61,Kannur,Ayyankunnu,6, 14
+62,Kannur,Muzhakkunnu,1, 2
+63,Kannur,Muzhuppilangad,6
+64,Kannur,Darmadam,15
+65,Kannur,Koodali,15
+66,Kollam,Thenmala,All Wards
+67,Kollam,Aryankavu,4 (Aryankavu), 5 (Aryankavu Temple)
+68,Kollam,Kollam (C),2, 4, 36, 37, 38, 39
+69,Kollam,Thevalakkara,All Wards
+70,Kollam,Panmana,All Wards
+71,Kollam,Sasthamcotta,All Wards
+72,Kollam,Mynagappally,All Wards
+73,Kollam,West Kallada,All Wards
+74,Kollam,Sooranad South,All Wards
+75,Kollam,Clappana,All Wards
+76,Kollam,Neendakara,All Wards
+77,Kollam,Chavara,All Wards
+78,Kollam,Nedumbana,All Wards
+79,Kollam,Kulasekharam,All Wards
+80,Kollam,Paravur (M),All Wards
+81,Kollam,Veliyam,All wards
+82,Kollam,Anchal,All wards
+83,Kollam,Alayamon,All wards
+84,Kollam,Yeroor,All wards
+85,Kollam,Edamulakkal,All Wards
+86,Kollam,Ilamad,All wards
+87,Kollam,Velinallur,All Wards
+88,Kollam,Melila,All Wards
+89,Kollam,Vettikkavala,All Wards
+90,Kollam,Thodiyoor,All Wards
+91,Kollam,Sooranad North,All Wards
+92,Kollam,Alappad,All Wards
+93,Kollam,Vilakkudi,All Wards
+94,Kollam,Mayyanad,All Wards
+95,Kollam,Karipra,All Wards
+96,Kollam,Ummannoor,All Wards
+97,Kollam,Chithara,All Wards
+98,Kollam,Kummil,All Wards
+99,Kollam,Kadakkal,All Wards
+100,Kollam,Karavaloor,All Wards
+101,Kollam,Panayam,All Wards
+102,Kollam,Kottarakkara (M),All Wards
+103,Kollam,Chadayamangalam,All Wards
+104,Kollam,Chirakkara,All Wards
+105,Kollam,Pooyappally,All Wards
+106,Kollam,Thrikkaruva,All Wards
+107,Kollam,Punaloor,10, 13, 24, 25, 26, 27, 28, 29, 33, 34
+108,Kollam,Poothakkulam,All Wards
+109,Kollam,Kulathooppuzha,All Wards
+110,Kollam,Nilamel,All Wards
+111,Kollam,Neduvathur,All Wards
+112,Kollam,Ittiva,All Wards
+113,Kollam,Kottankara,All Wards
+114,Kollam,Karunagappally (M),1, 20, 21, 22, 23, 24, 25, 30, 33, 34, 35
+115,Kollam,Ezhukone,All Wards
+116,Kollam,Thalavoor,All Wards
+117,Kollam,Pattazhi,All Wards
+118,Kollam,Poruvazhi,14, 17
+119,Alappuzha,Kayamkulam (M),All Wards
+120,Alappuzha,Palamel,All Wards
+121,Alappuzha,Bharanikkavu,5, 12, 13
+122,Alappuzha,Thekkekkara,All Wards
+123,Alappuzha,Nooranad,All Wards
+124,Alappuzha,Arattupuzha,All Wards
+125,Alappuzha,Cheriyanad,4, 7
+126,Alappuzha,Karuvatta,4
+127,Alappuzha,Thamarakkulam,All Wards
+128,Alappuzha,Pathiyoor,12
+129,Alappuzha,Pulincunnoo,14, 15
+130,Alappuzha,Vallikkunnam,2, 3
+131,Alappuzha,Puliyoor,1
+132,Alappuzha,Alappuzha (M),1, 35, 43
+133,Alappuzha,Ala,13
+134,Alappuzha,Cherthala (M),All wards
+135,Alappuzha,Aroor,All wards
+136,Alappuzha,Arukutty,All wards
+137,Alappuzha,Perumpalam,All wards
+138,Alappuzha,Ezhupunna,All wards
+139,Alappuzha,Panavally,All wards
+140,Alappuzha,Kodamthuruthu,All wards
+141,Alappuzha,Thaikkattussery,All wards
+142,Alappuzha,Kuthiyathodu,All wards
+143,Alappuzha,Thuravoor,All wards
+144,Alappuzha,Chennampallippuram,All wards
+145,Alappuzha,Pattanakkad,All wards
+146,Alappuzha,Vayalar,All wards
+147,Alappuzha,Kadakkarappally,All wards
+148,Alappuzha,Cherthala South,All wards
+149,Alappuzha,Thanneermukkam,All wards
+150,Alappuzha,Mararikkulam North,All wards
+151,Alappuzha,Kanjikkuzhy,All wards
+152,Alappuzha,Muhamma,All wards
+153,Alappuzha,Ramankari,9
+154,Alappuzha,Thrikkunnapuzha,All Wards
+155,Alappuzha,Krishnapuram,1, 2, 3
+156,Alappuzha,Ambalappuzha North,1, 2, 18
+157,Alappuzha,Devikulangara,13
+158,Alappuzha,Thazhakkara,21
+159,Alappuzha,Mararikkulam South,15, 16, 17, 19, 21
+160,Alappuzha,Thripparuthura,5
+161,Alappuzha,Chengannur (M),4, 23
+162,Alappuzha,Mannanchery,2, 3, 14, 17, 19, 20
+163,Alappuzha,Pallippad,10, 11
+164,Alappuzha,Kavalam,1, 2, 3, 4 , 5, 6, 7, 8, 9
+165,Alappuzha,Purakkad,18
+166,Alappuzha,Punnapra North,16
+167,Alappuzha,Nilamperoor,1, 2, 3, 4
+168,Ernakulam,Kochi ©,1, 2, 3, 5, 6, 8, 9, 11(Thoppumpady Fishing Harbour ), 20, 24,28, 31, 36, 38, 40, 43, 44,46, 52(Star Homes apartment )55, 56, 69,67 (Ernakulam Market), 71, 72
+169,Ernakulam,Kanjoor,1, 12
+170,Ernakulam,Chellanam,All Wards
+171,Ernakulam,Piravam (M),17
+172,Ernakulam,Paingottur,5
+173,Ernakulam,Paravoor (M),8
+174,Ernakulam,Kadungalloor,7, 8
+175,Ernakulam,Thrikkakkara (M),5, 6, 12, 28(Sub Ward)
+176,Ernakulam,Aluva (M),All Divisions
+177,Ernakulam,Keezhumad,All Wards
+178,Ernakulam,Edathala,All Wards
+179,Ernakulam,Mulavukad,3
+180,Ernakulam,Alangad,All Wards
+181,Ernakulam,Choornikkara,All Wards
+182,Ernakulam,Varappuzha,14 ( Market )
+183,Ernakulam,Tripunithura (M),16, 19(Sub Ward), 50 (Grandeur westend palace,Poornathreya temple road )
+184,Ernakulam,Chengamanad,All Wards
+185,Ernakulam,Karumalloor,All Wards
+186,Ernakulam,Sreemoolanagaram,4, 5
+187,Ernakulam,Vazhakkulam,19
+188,Ernakulam,Malayattoor-Neeleswaram,17
+189,Ernakulam,Vadakkekkara,15
+190,Ernakulam,Elankunnapuzha,14, 15 Kalamukku Market
+191,Ernakulam,Moovattupuzha (M),1, 28 (Pezhakkappilly Market )
+192,Ernakulam,Kumbalangi,5, 9
+193,Ernakulam,Kalamassery (M),1, 2, 3, 6, 35,37
+194,Ernakulam,Thiruvaniyoor,6
+195,Ernakulam,Rayamangalam,13, 14
+196,Ernakulam,Kavalangad,11
+197,Ernakulam,Pallarimangalam,9
+198,Ernakulam,Kuzhupilly,1
+199,Ernakulam,Nedumbassery,7, 14, 15
+200,Ernakulam,Chittattukara,3, 18
+201,Ernakulam,Maradu (M),23, 24, 25
+202,Ernakulam,Mulanthuruthy,7
+203,Ernakulam,Kalady,5, 8
+204,Ernakulam,Kumbalam,2
+205,Ernakulam,Eloor,2
+206,Ernakulam,Chennamangalam,9
+207,Ernakulam,Manjapra,8
+208,Ernakulam,Thuravur,7
+209,Ernakulam,Cheranalloor,17
+210,Ernakulam,Kottuvally,22
+211,Ernakulam,Nellikuzhy,All Wards
+212,Ernakulam,Kuttampuzha,4, 5, 14, 15,16
+213,Ernakulam,Ezhikkara,8, 9
+214,Palakkad,Koppam,All Wards
+215,Palakkad,Elappully,14
+216,Palakkad,Perumatti,2
+217,Palakkad,Thiruvegappura,All Wards
+218,Palakkad,Vaniyamkulam,6
+219,Palakkad,Kozhinjampara,8
+220,Palakkad,Thrithala,All Wards
+221,Palakkad,Shornur,5, 12, 13, 15, 16, 17, 20, 21, 24, 28, 30, 21, 32
+222,Palakkad,Kulukkallur,All Wards
+223,Palakkad,Nellaya,All Wards
+224,Palakkad,Vallappuzha,All Wards
+225,Palakkad,Alanalloor,17
+226,Palakkad,Pallassana,8
+227,Palakkad,Ongallur,All Wards
+228,Palakkad,Karakkurissi,6, 12
+229,Palakkad,Kanjirappuzha,1, 13
+230,Palakkad,Peringottukurissi,4, 5, 7
+231,Palakkad,Kumaramputhur,9, 10, 11, 12, 16
+232,Palakkad,Peruvemb,1
+233,Palakkad,Thengara,5
+234,Palakkad,Nenmara,5
+235,Palakkad,Pattambi (M),All Wards
+236,Palakkad,Ottappalam (M),18
+237,Palakkad,Muthuthala,All Wards
+238,Palakkad,Vilayoor,All Wards
+239,Palakkad,Paruthoor,All Wards
+240,Palakkad,Pattithara,All Wards
+241,Palakkad,Kappoor,All Wards
+242,Palakkad,Anakkara,All Wards
+243,Palakkad,Chalissery,All Wards
+244,Palakkad,Nagalassery,All Wards
+245,Palakkad,Thirumittikkode,All Wards
+246,Palakkad,Marutharoad,10
+247,Palakkad,Koduvayoor,4, 6
+248,Palakkad,Puthussery,3
+249,Palakkad,Pattanchery,15
+250,Thrissur,Kunnamkulam (M),11, 19 , 22, 25
+251,Thrissur,Mooriyad,All Wards
+252,Thrissur,Iringalakkuda (M),All Divisions
+253,Thrissur,Velukkara,1, 3, 7, 17, 18
+254,Thrissur,Aloor,1, 17
+255,Thrissur,Thannyam,All Wards
+256,Thrissur,Kadavalloor,12, 13, 15, 16, 17
+257,Thrissur,Karalam,13, 14
+258,Thrissur,Thrissur ©,40, 44
+259,Thrissur,Thrikkoor,7, 8, 12, 13
+260,Thrissur,Poomangalam,8
+261,Thrissur,Varavoor,2, 3, 4, 8, 9, 10, 11, 12
+262,Thrissur,Choondal,4, 6, 7, 8, 14
+263,Thrissur,Panjal,12, 13
+264,Thrissur,Mattathur,6, 7, 10, 11, 14, 15, 21
+265,Thrissur,Erumappetty,9
+266,Thrissur,Porkkulam,3, 9, 10, 11
+267,Thrissur,Chelakkara,3, 17, 20, 21, 22
+268,Thrissur,Alagappanagar,7, 11
+269,Thrissur,Puthanchira,5, 6, 7
+270,Thrissur,Varantharappally,4, 9, 13
+271,Thrissur,Deshamangalam,11, 13, 14, 15
+272,Thrissur,Mala,All Wards
+273,Thrissur,Kodassery,3, 4
+274,Thrissur,Mathilakam,14, 15
+275,Thrissur,Thiruvillwamala,10
+276,Thrissur,Padiyur,1, 13, 14
+277,Thrissur,Kodakara,2
+278,Thrissur,Pavaratty,3
+279,Thrissur,Madakkathara,6, 7, 8, 14
+280,Thrissur,Puthur,3
+281,Thrissur,Kodungalloor (M),31
+282,Thrissur,Nenmanikkara,6, 7
+283,Thrissur,Parappookkara,1, 2, 3, 17, 18
+284,Thrissur,Vadakkanchery (M),10,11,16,17,20
+285,Thrissur,Edavilang,7
+286,Thrissur,Vallachira,14
+287,Thrissur,Cherpp,17, 18
+288,Thrissur,Sreenarayanapuram,9, 12, 13
+289,Thrissur,Venkidang,3, 10, 11
+290,Thrissur,Perinjanam,12
+291,Thrissur,Avinissery,13
+292,Thrissur,Eriyad,1,8, 22, 23
+293,Thrissur,Chalakkudy (M),1, 4, 19, 20, 21
+294,Thrissur,Valappad,13
+295,Thrissur,Edathuruthy,9
+296,Thrissur,Kaypamangalam,12
+297,Thrissur,Mala,7, 8, 9, 10, 11, 14, 15, 17, 20
+298,Thrissur,Kadappuram,6, 7, 10
+299,Thrissur,Kadukutty,1, 9, 16
+300,Kozhikode,Kozhikode ©,2,8, 9, 11,12,13,16, 27, 29, 35,37, 38, 39, 41, 45, 47,49, 51, 55, 56, 57, 58, 59,63(Sub ward) 66, 74
+301,Kozhikode,Nadapuram,All Wards
+302,Kozhikode,Tuneri,All Wards
+303,Kozhikode,Vadakara (M),All Wards
+304,Kozhikode,Villiappally,All Wards
+305,Kozhikode,Perambra,17, 18, 19
+306,Kozhikode,Changaroth,14, 15, 19
+307,Kozhikode,Ayanchery,All Wards
+308,Kozhikode,Kunnamangalam,1, 21
+309,Kozhikode,Puthuppadi,All Wards
+310,Kozhikode,Omassery,7, 8, 9, 10
+311,Kozhikode,Olavanna,All Wards
+312,Kozhikode,Eramala,All Wards
+313,Kozhikode,Azhiyur,All Wards
+314,Kozhikode,Edachery,All Wards
+315,Kozhikode,Koyilandi (M),All Wards
+316,Kozhikode,Chekyad,All Wards
+317,Kozhikode,Chengottukavu,17
+318,Kozhikode,Chorod,7, 8, 18
+319,Kozhikode,Purameri,All Wards
+320,Kozhikode,Perumanna,All Wards
+321,Kozhikode,Peruvayal,11
+322,Kozhikode,Maniyoor,All Wards
+323,Kozhikode,Moodadi,4, 5
+324,Kozhikode,Valayam,1, 11, 12, 13, 14
+325,Kozhikode,Vaanimel,All Wards
+326,Kozhikode,Velam,8, 9
+327,Kozhikode,Chelannur,3, 7
+328,Kozhikode,Thiruvalloor,All Wards
+329,Kozhikode,Thamarassery,9
+330,Kozhikode,Mukkom,29, 30
+331,Kozhikode,Kodiyathur,5, 6
+332,Kozhikode,Mavoor,2, 4
+333,Kozhikode,Kakkodi,10
+334,Kozhikode,Kakkoor,12
+335,Kozhikode,Onchiyam,14, 15
+336,Kozhikode,Meppayoor,All Wards
+337,Kozhikode,Kodanchery,All Wards
+338,Kozhikode,Ramanattukara (M),14
+339,Kozhikode,Unnikulam,1, 14, 23
+340,Kozhikode,Kayakkodi,All Wards
+341,Kozhikode,Thikkodi,7
+342,Kozhikode,Payyoli (M),31
+343,Kozhikode,Kadalundi,20
+344,Kozhikode,Maruthongara,2
+345,Kozhikode,Puthuppady,All Wards
+346,Thiruvananthapuram,Thiruvananthapuram (C),All Wards
+347,Thiruvananthapuram,Parasala,All wards
+348,Thiruvananthapuram,Karode,1, 2, 3,4, 8, 13, 19
+349,Thiruvananthapuram,Anchuthengu,All Wards
+350,Thiruvananthapuram,Chirayinkeezhu,All Wards
+351,Thiruvananthapuram,Azhoor,15,18
+352,Thiruvananthapuram,Poovachal,3, 5, 17, 18, 22
+353,Thiruvananthapuram,Vilappil,10, 20
+354,Thiruvananthapuram,Karumkulam,All Wards
+355,Thiruvananthapuram,Chenkal,3, 4, 12, 13, 14
+356,Thiruvananthapuram,Panavoor,4, 7, 10,11
+357,Thiruvananthapuram,Kunnathukal,All wards
+358,Thiruvananthapuram,Kulathur,All Wards
+359,Thiruvananthapuram,Perumkadavila,All Wards
+360,Thiruvananthapuram,Kollayil,9, 12, 16
+361,Thiruvananthapuram,Nellanad,7
+362,Thiruvananthapuram,Kallara,8, 9, 10, 11, 12
+363,Thiruvananthapuram,Vembayam,1, 18
+364,Thiruvananthapuram,Pangode,8
+365,Thiruvananthapuram,Neyyattinkara (M),4, 11, 19, 39
+366,Thiruvananthapuram,Balaramapuram,5, 7, 13, 15
+367,Thiruvananthapuram,Kilimanoor,12
+368,Thiruvananthapuram,Peringammala,1, 16,17, 18, 19
+369,Thiruvananthapuram,Karakulam,4, 15, 16
+370,Thiruvananthapuram,Edava,All Wards
+371,Thiruvananthapuram,Vettoor,All Wards
+372,Thiruvananthapuram,Vakkom,All Wards
+373,Thiruvananthapuram,Kadakkavoor,All Wards
+374,Thiruvananthapuram,Kadinamkulam,All Wards
+375,Thiruvananthapuram,kottukal,All Wards
+376,Thiruvananthapuram,Poovar,All Wards
+377,Thiruvananthapuram,Varkkala (M),All Coastal Wards
+378,Thiruvananthapuram,Nanniyode,4, 12
+379,Thiruvananthapuram,Kattakkada,4, 16, 17
+380,Thiruvananthapuram,Venganoor,9
+381,Thiruvananthapuram,Kuttiyani,15
+382,Thiruvananthapuram,Neduveli,18
+383,Thiruvananthapuram,Pallichal,3, 4
+384,Thiruvananthapuram,Karavaram,6
+385,Kasargode,Ajanur,1, 4, 6, 15, 16
+386,Kasargode,Badiadka,1, 2, 12, 15, 18, 19
+387,Kasargode,Balal,2, 3, 11, 14
+388,Kasargode,Bellur,10, 11
+389,Kasargode,Chemnad,1, 2, 5, 7, 8, 9, 11, 13, 18, 22
+390,Kasargode,Chengala,4, 5, 7, 8, 9, 10,11, 13, 14, 20 ,21, 23
+391,Kasargode,Cheruvathur,4, 17
+392,Kasargode,East Eleri,14, 15
+393,Kasargode,Enmakaje,9
+394,Kasargode,Kallar,3, 9, 10, 11
+395,Kasargode,Kanhangad (M),1, 24, 28, 29
+396,Kasargode,Karadka,4, 5, 6, 11
+397,Kasargode,Kasargod (M),2, 3, 7, 12, 14, 16, 21, 27, 28, 29, 34
+398,Kasargode,Kinanoor Karinthalam,14, 15, 16
+399,Kasargode,Kodom Belur,1,3, 5, 12, 18
+400,Kasargode,Kumbala,1, 2, 3, 4, 5, 11,12,14, 17,18,20, 21, 22, 23
+401,Kasargode,Kumbdaje,5, 6, 7, 9
+402,Kasargode,Kuttikkole,5, 13
+403,Kasargode,Madhur,6, 7, 9, 10, 11, 14, 18, 19
+404,Kasargode,Madikkai,11, 14, 15
+405,Kasargode,Mangalpady,1, 2, 3, 4, 5, 6, 9, 10, 11, 13, 15, 17
+406,Kasargode,Manjeshwar,1,2,3, 6,7,8, 9,10,11,12,13,14,15,17,19,20
+407,Kasargode,Meenja,1, 2, 8, 11, 12, 13, 14
+408,Kasargode,Mogral Puthur,4, 6, 10, 14
+409,Kasargode,Nileshwar (M),5, 10, 21, 29, 30
+410,Kasargode,Padanna,2, 5
+411,Kasargode,Pallikkara,4, 12, 14, 19, 22
+412,Kasargode,Panathady,2, 5, 7, 13, 14
+413,Kasargode,Paivalike,16, 17
+414,Kasargode,Pilicode,4, 7, 10, 11
+415,Kasargode,Kayyur Cheemeni,2, 3, 5, 10
+416,Pathanamthitta,Pathanamthitta (M),All Wards
+417,Pathanamthitta,Thiruvalla (M),All Wards
+418,Pathanamthitta,Kottangal,5, 6, 7, 8, 9
+419,Pathanamthitta,Ezhamkulam,17
+420,Pathanamthitta,Kodumon,12, 13, 17
+421,Pathanamthitta,Naranganam,4
+422,Pathanamthitta,Adoor (M),2, 3, 13
+423,Pathanamthitta,Ayiroor,11,15
+424,Pathanamthitta,Chennerkkara,4
+425,Pathanamthitta,Erathu,11, 13, 15
+426,Pathanamthitta,Pallickal,7
+427,Pathanamthitta,Ranni Pazhavangadi,12, 13, 14
+428,Pathanamthitta,Konni,12, 14
+429,Pathanamthitta,Kulanada,2
+430,Pathanamthitta,Kalanjoor,8, 9
+431,Pathanamthitta,Thannithode,6, 8
+432,Pathanamthitta,Enadhimangalam,15
+433,Pathanamthitta,Peringara,11, 12, 13
+434,Pathanamthitta,Eraviproor,6
+435,Pathanamthitta,Vadasserikkara,6
+436,Idukki,Kanjikuzhy,All Wards
+437,Idukki,Rajakkad,All Wards
+438,Idukki,Kanjiryar,11, 12
+439,Idukki,Vazhathope,All Wards
+440,Idukki,Mariyapuram,2, 5, 7, 10, 11
+441,Idukki,Vannapuram,All Wards
+442,Idukki,Munnar,19
+443,Idukki,Vathikkudi,2, 3
+444,Idukki,Kamakshi,10, 11, 12
+445,Idukki,Kattappana (M),15, 16,
+446,Idukki,Karimkunnam,1, 7, 8
+447,Idukki,Edavetty,1, 11, 12, 13
+448,Idukki,Vandanmedu,2, 3
+449,Idukki,Konnathady,1, 18
+450,Kottayam,Parathode,7, 8, 9, 16
+451,Kottayam,Aymanam,6, 14
+452,Kottayam,Thalayolaparamb,4
+453,Kottayam,Udayanapuram,16
+454,Kottayam,Kumarakom,4, 10, 11, 12
+455,Kottayam,TV puram,10
+456,Kottayam,Ettumanoor (M),4
+457,Kottayam,Vechoor,1, 3, 4
+458,Kottayam,Maravanthuruth,1, 11, 12
+459,Kottayam,Changanassery (M),24, 31, 33, 34
+460,Kottayam,Kanjirappally,18
+461,Kottayam,Kottayam (M),24, 39, 46
+462,Kottayam,Vazahppally,20
+463,Kottayam,Payippad,7, 8, 9, 10, 11
+464,Kottayam,Thalayazham,1
+465,Kottayam,Thiruvarpp,11
+466,Kottayam,Vaikom (M),13, 21, 24, 25
+467,Kottayam,Kurichi,20
+468,Malappuram,Ponnani (M),All Wards
+469,Malappuram,Perumpadapp,All Wards
+470,Malappuram,Veliyamkode,All Wards
+471,Malappuram,Marancheri,All Wards
+472,Malappuram,Alamkode,All Wards
+473,Malappuram,Vattamkulam,All Wards
+474,Malappuram,Edappal,All Wards
+475,Malappuram,Kaladi,All Wards
+476,Malappuram,Tanur (M),All Wards
+477,Malappuram,Kondotty (M),All Wards
+478,Malappuram,Nilambur (M),All Wards
+479,Malappuram,Peruvallur,3, 12, 13, 18, 19
+480,Malappuram,Mampad,2, 3, 11, 12,13
+481,Malappuram,Pallikkal,3, 7, 8, 9, 10, 11, 12, 13, 15
+482,Wayanad,Thirunelli,All Wards
+483,Wayanad,Thondarnadu,1, 2, 3, 4, 5, 10, 11, 12, 13, 15
+484,Wayanad,Mullankolly,All Wards
+485,Wayanad,Kaniyambatta,15, 16, 17
+486,Wayanad,Pulpally,All Wards
+487,Wayanad,Mananthavadi (M),16
+488,Wayanad,Kalppatta,18 - Rattakkolli Paniya Colony
+489,Wayanad,Edavaka,12, 16, 17
+490,Wayanad,Vellamunda,2, 3, 4, 9
+491,Wayanad,Padinjarathara,1, 16
+492,Wayanad,Thavinjal,1, 2
+493,Wayanad,Noolppuzha,14, 15, 16, 17
+494,Wayanad,Nenmeni,3, 4
+495,Wayanad,Sulthan Batheri (M),15, 23,24
