@@ -25,4 +25,4 @@
 >>> https://www.worldometers.info/coronavirus/
 
 #Map
-main = "Gokul" alt = "Adarsh"
+main = "Gokul Rejithkumar" alt = "Adarsh V.S"
