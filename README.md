@@ -18,7 +18,7 @@
 1. StateData - Adarsh V.S
 >>> https://www.mohfw.gov.in/
 2. StateDataTop10 - Agnel Nic sebastian
->>> https://news.google.com/covid19/map?hl=en-IN&mid=/m/03rk0&gl=IN&ceid=IN:en
+>>> https://news.google.com/covid19/map?hl=en-IN&mid=/m/03rk0&gl=IN&ceid=IN:en <br>
 >>> https://www.thehindu.com/coronavirus/
 
 #World page datasets used
