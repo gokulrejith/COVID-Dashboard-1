@@ -1,29 +1,26 @@
 # COVID-Dashboard
-#Homepage datasets used:
-1. QuarKerDist - Derin T Jose
+#Homepage Kerala: - Agnel
+1. QuarKerDist.csv
 >>> https://dashboard.kerala.gov.in/quarantined-datewise.php
-2. PatientDeathAge
->>> https://dashboard.kerala.gov.in/deaths.php
-3. KeralaData - Agnel Nic Sebastian
->> https://dashboard.kerala.gov.in/index.php
->>> https://dashboard.kerala.gov.in/testing-view-public.php (For getting test data)
+2. PatientDeathAge.csv
+>>> https://dashboard.kerala.gov.in/deaths.php  > Click on deaths block.
+3. KeralaData.csv
+>> https://dashboard.kerala.gov.in/dailyreporting-view-public-districtwise.php
 
-#District page datasets used:
-1. DistrictData - Derin T Jose
+#District: - Derin + Godson
+1. DistrictData.csv
+>>> https://dashboard.kerala.gov.in/daily.php
+2. DistrictDatewise.csv
 >>> https://dashboard.kerala.gov.in/dailyreporting-view-public-districtwise.php
-2. DistrictDatewise - Godson Thomas
->>> https://dashboard.kerala.gov.in/dailyreporting-view-public-districtwise.php
+3. Containment.csv
+>>>https://dashboard.kerala.gov.in/hotspots.php
 
-#State page datasets used:
-1. StateData - Adarsh V.S
->>> https://www.mohfw.gov.in/
-2. StateDataTop10 - Agnel Nic sebastian
->>> https://news.google.com/covid19/map?hl=en-IN&mid=/m/03rk0&gl=IN&ceid=IN:en <br>
->>> https://www.thehindu.com/coronavirus/
-
-#World page datasets used
-1. WorldDataTop10 - John Paul
+#Other Regions - Adarsh
+1. india.csv
 >>> https://www.worldometers.info/coronavirus/
+2. world.csv
+>>>https://www.worldometers.info/coronavirus/
 
-#Map
-main = "Gokul Rejithkumar" alt = "Adarsh V.S"
+#Kerala Map - Gre
+>>>mapbox.com
+
